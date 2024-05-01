@@ -458,16 +458,16 @@ Here are the key questions we need to answer for our marketing client:
 
 | Rank | Channel Name         | Subscribers (M) |
 |------|----------------------|-----------------|
-| 1    | NoCopyrightSounds    | 33.6            |
-| 2    | Dan Rhodes           | 26.5            |
-| 3    | DanTDM               | 28.6            |
-| 4    | Miss Katy            | 24.5            |
-| 5    | Mister Max           | 24.4            |
-| 6    | KSI                  | 24.1            |
-| 7    | Jelly                | 23.5            |
-| 8    | Dua Lipa             | 23.3            |
-| 9    | Ali-A                | 18.9            |
-| 10   | Gaby and Alex        | 17.2            |
+| 1    | NoCopyrightSounds    | 33.60           |
+| 2    | DanTDM               | 28.60           |
+| 3    | Dan Rhodes           | 26.50           |
+| 4    | Miss Katy            | 24.50           |
+| 5    | Mister Max           | 24.40           |
+| 6    | KSI                  | 24.10           |
+| 7    | Jelly                | 23.50           |
+| 8    | Dua Lipa             | 23.30           |
+| 9    | Sidemen              | 21.00           |
+| 10   | Ali-A                | 18.90           |
 
 
 ### 2. Which 3 channels have uploaded the most videos?
