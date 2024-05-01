@@ -282,7 +282,7 @@ FROM
 
 ```
 
-![Row count check](assets/images/data_quality_test_1.png)
+![Row count check](assets/images/1_row_count_check.png)
 
 
 
@@ -302,7 +302,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024'
 ```
 ### Output 
-![Column count check](assets/images/data_quality_test_2.png)
+![Column count check](assets/images/2_column_count_check.png)
 
 
 
@@ -323,7 +323,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024';
 ```
 ### Output
-![Data type check](assets/images/data_quality_test_3.png)
+![Data type check](assets/images/3_data_type_check.png)
 
 
 ## Duplicate count check
@@ -351,7 +351,7 @@ HAVING
     COUNT(*) > 1;
 ```
 ### Output
-
+![Duplicate count check](assets/images/4_duplicate_records_check.png)
 
 # Visualization 
 
