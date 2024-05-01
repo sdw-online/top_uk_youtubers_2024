@@ -858,7 +858,7 @@ We'll have conversations with the marketing client to forecast what they also ex
 - What steps do we take to implement the recommended decisions effectively?
 
 
-1. Reach out to the teams behind each of these channels, starting with NoCopyrightSounds
+1. Reach out to the teams behind each of these channels, starting with Dan Rhodes
 2. Negotiate contracts within the budgets allocated to each marketing campaign
 3. Kick off the campaigns and track each of their performances against the KPIs
 4. Review how the campaigns have gone, gather insights and optimize based on feedback from converted customers and each channel's audiences 
