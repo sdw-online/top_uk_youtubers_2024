@@ -360,7 +360,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![Image of Power BI Dashboard](assets/images/power_bi_dashboard.png)
+![Image of Power BI Dashboard](assets/images/powerbi_dashboard.png)
 
 This shows the Top UK Youtubers in 2024 so far. 
 
