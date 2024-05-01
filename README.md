@@ -207,14 +207,6 @@ And here is a tabular representation of the expected schema for the clean data:
 
 
 
-
-
-
-![SQL query 1](assets/images/sql_query_data_cleaning_1.png)
-
-![SQL query 2](assets/images/sql_query_data_cleaning_2.png)
-
-
 ### Transform the data 
 
 
@@ -623,7 +615,7 @@ ORDER BY
 
 #### Output
 
-![Most subsc](assets/images/youtubers_with_most_subs.png)
+![Most subsc](assets/images/youtubers_with_the_most_subs.png)
 
 ### 2. Youtubers with the most videos uploaded
 
@@ -713,7 +705,7 @@ ORDER BY
 
 #### Output
 
-![Most videos](assets/images/youtubers_with_most_vids.png)
+![Most videos](assets/images/youtubers_with_the_most_videos.png)
 
 
 ### 3.  Youtubers with the most views 
@@ -808,7 +800,7 @@ ORDER BY
 
 #### Output
 
-![Most views](assets/images/youtubers_with_most_views.png)
+![Most views](assets/images/youtubers_with_the_most_views.png)
 
 
 
